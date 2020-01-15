@@ -42,9 +42,9 @@ If you are not sure where to classify a
 particular item, just tell the CCSC Treasurer as much about the expense as
 possible and they will classify it.
 
-The procedure for the CCSC Treasurer to disperse funds is as follows:
+The procedure for the CCSC Treasurer to disburse funds is as follows:
 
-1. The CCSC Treasurer can only disperse funds (except for advances to a college
+1. The CCSC Treasurer can only disburse funds (except for advances to a college
 or university or a deposit to a supplier) on the receipt of
 an invoice (for which they can only pay the company issuing the
 invoice), a travel reimbursement form, or a personal
@@ -64,7 +64,7 @@ reimbursement form with the person receiving the
 reimbursement completing the second tab and the conference
 chair completing the third tab.
 4. The CCSC Treasurer will need your approval of each amount before they can
-disperse the funds. Let all persons who may need to be
+disburse the funds. Let all persons who may need to be
 reimbursed know about the appropriate forms and the need for
 your approval. They can e-mail the CCSC Treasurer a pdf of the appropriate
 form and should copy you. Your approval needs to state
@@ -80,10 +80,11 @@ to both you and the CCSC Treasurer by e-mail where you will follow up with
 an e-mailed approval. Forms can also be mailed or faxed to
 the CCSC Treasurer.
 7. We are not registered as an employer; thus we cannot
-disperse funds to individuals (except invoiced amounts from
+disburse funds to individuals (except invoiced amounts from
 independent contractors) for services rendered. The CCSC Treasurer cannot
 reimburse any person for such payments that they make.
 Services must be invoiced directly to the CCSC Treasurer.
+8. Payment to indviduals can be by check, PayPal, or the Zelle payment app. The following information is needed: For payment by check, the name, correct mailing address, and phone number of the payee; for payment via PayPal, the email address associated with the account; for the Zelle payment app, the email address or phone number associated with the account. 
 
 Make sure those associated with your region are aware of these
 policies.
@@ -91,9 +92,9 @@ policies.
 The CCSC Treasurer will not provide gift cards for use as prizes. 
 If your conference chooses to award gift cards,
 this reimbursement is accomplished (as for other purcheses) via
-the usual expense reimbursement forms. For each dispersement at
+the usual expense reimbursement forms. For each disbursement at
 the conference (whether by cash, check, or gift card), a receipt
-signed by the recipient must be submitted to The CCSC Treasurer.
+signed by the recipient must be submitted to The CCSC Treasurer. The CCSC needs documentation only for the amount provided; for example, if one contestant receieves $40 in the form of 2 $20 gift cards, a single receipt for $40 is adequate. 
 
 If you choose to allow cash, cash received at the conference can be used for prizes or any
 small reimbursements, but receipts must be submitted and a report
@@ -145,6 +146,7 @@ information.
 
 - Based on September 2014 version by Susan Dean, Consortium Treasurer
 - Updated 2020 by Denise Case, CCSC-CP Regional Treasurer
+- Updated 15 Jan 2020 by Brian Hare, CCSC National Treasurer
 - [Recent history](https://github.com/denisecase/ccsc-regional-treasurer-instructions/commits/master)
 
 ## Links
